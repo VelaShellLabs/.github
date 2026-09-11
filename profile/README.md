@@ -33,9 +33,8 @@ VelaShell 是一款为运维与开发者打造的**现代化跨平台 SSH / SFTP
 | [velashell-plugin-sdk](https://github.com/VelaShellLabs/velashell-plugin-sdk) | 插件契约 SDK:`VelaShell.PluginSdk`、`.Testing` |
 | [velashell-plugin-cli](https://github.com/VelaShellLabs/velashell-plugin-cli) | `vela-plugin` 命令行与 `VelaShell.PluginSdk.Build` |
 | [velashell-plugin-templates](https://github.com/VelaShellLabs/velashell-plugin-templates) | `dotnet new velaplugin` 模板 |
-| [velashell-plugins](https://github.com/VelaShellLabs/velashell-plugins) | 第一方插件:Redis / S3 / Telnet / 串口 |
+| [velashell-plugins](https://github.com/VelaShellLabs/velashell-plugins) | 第一方插件:Redis / S3 / Telnet / 串口 / (Docker / Compose 管理面板插件) |
 | [velashell-markets](https://github.com/VelaShellLabs/velashell-markets) | 插件商店:上传、审核、检索与分发 |
-| [VelaShell.Plugin.DockerPanel](https://github.com/VelaShellLabs/VelaShell.Plugin.DockerPanel) | Docker / Compose 管理面板插件 |
 
 ### 写一个插件
 
@@ -81,9 +80,8 @@ itself lives at [joesdu/VelaShell](https://github.com/joesdu/VelaShell).
 | [velashell-plugin-sdk](https://github.com/VelaShellLabs/velashell-plugin-sdk) | The plugin contract SDK: `VelaShell.PluginSdk`, `.Testing` |
 | [velashell-plugin-cli](https://github.com/VelaShellLabs/velashell-plugin-cli) | The `vela-plugin` CLI and `VelaShell.PluginSdk.Build` |
 | [velashell-plugin-templates](https://github.com/VelaShellLabs/velashell-plugin-templates) | The `dotnet new velaplugin` templates |
-| [velashell-plugins](https://github.com/VelaShellLabs/velashell-plugins) | First-party plugins: Redis / S3 / Telnet / serial |
+| [velashell-plugins](https://github.com/VelaShellLabs/velashell-plugins) | First-party plugins: Redis / S3 / Telnet / serial / (A Docker / Compose management panel plugin)|
 | [velashell-markets](https://github.com/VelaShellLabs/velashell-markets) | The plugin marketplace: upload, review, search, distribution |
-| [VelaShell.Plugin.DockerPanel](https://github.com/VelaShellLabs/VelaShell.Plugin.DockerPanel) | A Docker / Compose management panel plugin |
 
 ### Write a plugin
 
